@@ -1,0 +1,19 @@
+{
+  "name": "sa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.6",
+    "csv-parse": "^5.5.3",
+    "csv-stringify": "^6.4.5",
+    "sentiment": "^5.0.2"
+  }
+}
